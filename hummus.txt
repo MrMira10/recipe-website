@@ -3,8 +3,8 @@ ingredients for home-made hummus:
 - tahini
 - lemon
 - garlic
-<<<<<<< HEAD
-prep - cock the chickpeas for hours then smash them manually
-=======
+
+- prep - cock the chickpeas for hours then smash them manually
+
 - blend everything until you get a soft cream
->>>>>>> add-instructions
+
